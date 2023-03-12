@@ -1,0 +1,29 @@
+{
+    "pages": [
+        "pages/video/video",
+        "pages/index/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#00FA9A",
+        "navigationBarTitleText": "Follow Mrs.Xing",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "custom": true,
+        "selectedColor": "#00FA9A",
+        "position": "bottom",
+        "list": [
+            {
+                "pagePath": "/pages/index/index",
+                "text": "音频"
+            },
+            {
+                "pagePath": "/pages/video/video",
+                "text": "视频"
+            }
+        ]
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}
