@@ -1,0 +1,4 @@
+<!--pages/testpaper/testpaper.wxml-->
+<view class="container">
+    <image src="/images/headPicture3.jpg"></image>
+</view>

@@ -1,0 +1,4 @@
+<!--pages/note/note.wxml-->
+<view class="container">
+    <image src="/images/headPicture2.jpg"></image>
+</view>

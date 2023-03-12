@@ -1,4 +1,4 @@
 <!--index.wxml-->
 <view class="container">
-  <image src="/images/head-picture.jpg"></image>
+    <image src="/images/head-picture.jpg"></image>
 </view>
